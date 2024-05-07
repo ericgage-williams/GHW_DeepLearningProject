@@ -1,4 +1,4 @@
-path: /Users/aidanhousenbold/GHW_DeepLearningProject/self
+path: /home/cs-students/26ash9/GHW_DeepLearningProject/Self
 train: train/images
 val: valid/images
 test: test/images
